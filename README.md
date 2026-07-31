@@ -5,7 +5,7 @@ Bacharel em Ciência e Tecnologia • Graduando em Engenharia da Computação
 </p>
 
 <p align="center">
-  <img src="https://github.com/AndersonLandim2025/AndersonLandim2025/commit/a4a45282d2229f22bd8fd8b48d33a97dfb3fb288" width="190" alt="Foto de Anderson">
+  <img src="https://raw.githubusercontent.com/AndersonLandim2025/AndersonLandim2025/a4a45282d2229f22bd8fd8b48d33a97dfb3fb288/WhatsApp%20Image%202026-07-30%20at%207.40.29%20PM.jpeg" width="190" alt="Foto de Anderson">
 </p>
 
 ---
