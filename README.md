@@ -50,15 +50,15 @@ Os projetos disponíveis neste perfil representam minha evolução acadêmica e 
 # 📫 Contato
 
 <p align="center">
-  <a href="mailto:Anderson.silva60291@alunos.ufersa.edu.br">
+  <a href="mailto:anderson.silva60291@alunos.ufersa.edu.br">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/AndersonLandim2025">
+  <a href="https://github.com/anderson-esmael-da-silva" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
 
-<a href="https://web.whatsapp.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="18" height="18" alt="WhatsApp">
-</a>
+  <a href="https://web.whatsapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
