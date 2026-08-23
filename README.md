@@ -58,3 +58,7 @@ Os projetos disponíveis neste perfil representam minha evolução acadêmica e 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<a href="https://web.whatsapp.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="18" height="18" alt="WhatsApp">
+</a>
