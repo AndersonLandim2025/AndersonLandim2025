@@ -61,4 +61,8 @@ Os projetos disponíveis neste perfil representam minha evolução acadêmica e 
   <a href="https://web.whatsapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+
+  <a href="https://www.instagram.com/anderson_esmael_da_silva_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
