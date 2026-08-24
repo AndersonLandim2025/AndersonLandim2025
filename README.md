@@ -54,13 +54,6 @@ Os projetos disponíveis neste perfil representam minha evolução acadêmica e 
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/anderson-esmael-da-silva" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://web.whatsapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
 
   <a href="https://www.instagram.com/anderson_esmael_da_silva_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
